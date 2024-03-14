@@ -1,7 +1,8 @@
 # Hey there! my name is Matt Renzo 👋
 
 #### I'm Full Stack Developer | Software Engineer based in Cebu, Philippines.
-![I'm Full Stack Developer | Software Engineer](https://github.com/oznerta/oznerta/blob/main/githubreadme.gif?raw=true)
+<img src="https://github.com/oznerta/oznerta/blob/main/githubreadme.gif?raw=true" autoplay loop>
+
 
 
 
