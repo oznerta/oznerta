@@ -9,7 +9,7 @@
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,java,spring,sql,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,java,spring,mysql,php,vue,tailwind,laravel)](https://skillicons.dev)
 
 ## Socials
 
